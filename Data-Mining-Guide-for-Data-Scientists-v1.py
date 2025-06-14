@@ -159,5 +159,5 @@ if idea_input:
 # Footer
 st.markdown("""
 ---
-**Built with Streamlit** | Powered by xAI's Grok 3 | For more information on data mining, explore resources on [xAI's API](https://x.ai/api).
+**Built By Burst Software Development** 
 """)
